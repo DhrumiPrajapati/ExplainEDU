@@ -63,14 +63,14 @@ This project builds predictive models for student outcomes with a focus on accur
 - The **VotingClassifier** achieved **87% accuracy**, **F1 score of 0.70**, and an **AUC of 0.89** for multiclass classification. This means the model effectively balances precision and recall while making nuanced distinctions across three student statuses, making it suitable for academic tracking and intervention planning.
 
 <p align="center">
-  <img src="Images/multiclass_accuracy.png" height="270" width="700">
+  <img src="Images/multiclass_accuracy.png" width="700">
   <br><em>Figure 1: Multiclass Classification Accuracy</em>
 </p>
 
 - For binary classification, **XGBoost** achieved **94% accuracy**, **F1 score of 0.87**, and **AUC of 0.96** after tuning. These metrics reflect the model's strong ability to detect dropout cases with minimal false positives, making it ideal for early-warning systems.
 
 <p align="center">
-  <img src="Images/binary_accuracy.png" height="270" width="700">
+  <img src="Images/binary_accuracy.png" width="700">
   <br><em>Figure 2: Binary Classification Accuracy</em>
 </p>
 
