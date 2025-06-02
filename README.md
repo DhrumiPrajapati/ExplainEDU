@@ -141,5 +141,3 @@ The paper provides:
 - An in-depth exploration of model explainability using SHAP values to interpret predictions for both technical and non-technical audiences.
 
 🔗 [**Read the Full Research Paper (PDF)**](docs/ExplainEDU_Research_Paper.pdf)
-
-This repository serves as the accompanying codebase and practical demonstration of the research findings presented in the paper.
